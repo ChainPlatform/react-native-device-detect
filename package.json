@@ -1,0 +1,31 @@
+{
+  "name": "@chainplatform/device",
+  "version": "0.1.0",
+  "description": "@chainplatform/device is a React Native library that provides a Device Info component for react-native and react-native-web.",
+  "main": "index.js",
+  "devDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-device-detect": "*"
+  },
+  "author": "Chain Platform <support@chainplatform.net> (https://chainplatform.net/)",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-web",
+    "@chainplatform/device"
+  ],
+  "homepage": "https://github.com/ChainPlatform/react-native-device-detect",
+  "bugs": "https://github.com/ChainPlatform/react-native-device-detect/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChainPlatform/react-native-device-detect.git"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-device-detect": "*"
+  }
+}
