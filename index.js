@@ -1,5 +1,3 @@
-let DeviceInfo = {};
-DeviceInfo.isMobile = true;
-DeviceInfo.os = "native";
+import DeviceInfo from "./DeviceInfo";
 
 export default DeviceInfo;
